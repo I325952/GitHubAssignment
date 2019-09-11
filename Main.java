@@ -6,6 +6,7 @@ public class Main {
 	{
 		System.out.println("Tiktok_TestAutomation_script_V1");
                 System.out.println("Tiktok_TestAutomation_script_V2");
+                System.out.println("Tiktok_TestAutomation_script_V3");
                
 	}
         
